@@ -1,7 +1,6 @@
 body{
-  max-width: 100vW;
+  max-width: 100%;
   margin: 0%;
   box-sizing: border-box;
-  overflow-x: hidden;
 }
 

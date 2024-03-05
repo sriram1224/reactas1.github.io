@@ -3,7 +3,6 @@ import './App.css'; // Importing the CSS file for styling
 import Nav from './Components/Nav.js'; // Importing the Nav component
  // Importing the Body component
 import Footer from './Components/Footer.js'; // Importing the Footer component
-import Body from './Components/Body.js';
 
 function App() {
   return (
