@@ -1,0 +1,33 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Protest+Revolution&display=swap');
+body{
+    font-family: "Noto Sans", sans-serif;
+    margin: 0%;
+    padding: 0%;
+}
+.Nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    width: 100%;
+}
+.Nav ul{
+    display: flex;
+    
+    align-items: center;
+    list-style: none;
+    
+    width: 96%;
+   padding: auto;
+}
+.Nav ul li{
+    padding: 20px 10rem;
+    
+    background-color: rgb(165,161,158);
+    text-align: center;
+}
+#first{
+    color: white;
+    background-color: rgb(151,32,72);
+}

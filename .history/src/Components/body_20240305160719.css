@@ -1,0 +1,26 @@
+.image ,.card{
+    display: flex;
+
+    flex-direction: column;
+    
+   height: 35rem;
+   width: 80rem;
+    
+   padding-left: 20rem;
+   text-align: center;
+    justify-content: center;
+
+
+}
+.button-container{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    padding-top: 2rem;
+   
+}
+
+.card{
+    background-color: rgb(151,32,72);
+    
+}

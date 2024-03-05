@@ -1,0 +1,10 @@
+.image{
+    display: flex;
+
+    width: 60%;
+    
+   padding-left: 20rem;
+    justify-content: center;
+
+
+}
