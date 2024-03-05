@@ -31,7 +31,7 @@
    width: 80rem;
    height: 200px;
    padding:20px 0;
-   margin-left: 7rem;
+   margin-left: 10rem;
    margin-top:30px;
    text-align: center;
     justify-content: center;
@@ -43,7 +43,7 @@
     text-align:center;
     width: 80rem;
     font-size: 15px;
-   margin-left: 7rem;
+   margin-left: 10rem;
 
 }
 .para .p1{
@@ -53,13 +53,13 @@
 }
 .hline{
     width:80rem;
-    margin-left:  7rem;
-    margin:  5rem 7rem;
+    margin-left: 10rem;
+    margin:  5rem 20rem;
 
 }
 .main3{
     width:80rem;
-    margin-left: 7rem;
+    margin-left: 10rem;
     text-align: center;
 
 }
@@ -69,7 +69,7 @@
 .carousel{
     width:80rem;
    
-    margin-left: 7rem;
+    margin-left: 10rem;
     
     
 }
